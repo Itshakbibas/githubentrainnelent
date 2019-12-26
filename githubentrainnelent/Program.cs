@@ -10,6 +10,15 @@ namespace githubentrainnelent
     {
         static void Main(string[] args)
         {
+            int a;
+            int b;
+            int c;
+
+
+
+
+
+
         }
     }
 }
